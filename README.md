@@ -32,7 +32,7 @@ Open your terminal in the project root directory and run:
 #### 3. Run the container
 In the same directory, run:
 ```bash
-    docker run -p 8888:8888 paper-repro
+    docker run -p 8888:8888 wabt-repro
 ```
 
 #### 4. Access the notebook
